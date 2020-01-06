@@ -17,7 +17,7 @@
     <h1 class="display-4 text-center text-info">Découverte GIT / GITHUB</h1><hr>
 
         </div>  
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quibusdam repudiandae iure laudantium neque molestiae minima ipsa expedita officiis deleniti cumque, ratione exercitationem similique asperiores praesentium dolorem id rem dolores accusamus nobis. Ipsa, ducimus sunt aliquam reprehenderit quaerat aliquid, autem non, suscipit error dicta deserunt odio? Quis in quam adipisci delectus ratione, id facilis ad tenetur distinctio. Maiores ducimus accusantium, similique, aliquam magnam sequi repudiandae maxime totam iste molestias excepturi? Quos repudiandae, ab necessitatibus expedita fugiat quo. Aspernatur modi dolore obcaecati, cupiditate quam optio, possimus quaerat perspiciatis ad est atque quisquam enim minus non harum dolorem nostrum. Eligendi, laborum rerum.</p>
     
 </body>
 </html>
